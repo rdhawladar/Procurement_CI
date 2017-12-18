@@ -4,7 +4,7 @@
 
 >Not sure whether there'll be another version though.
 
-######Demo of the project is found at: http://procurementsys-gmanguru.rhcloud.com/
+######Demo of the project is found at: http://rdhawladar.com/procurement
 - For the user pages Username and Password is "demo"
 - For the admin section Username and Password is: "admin".
 
